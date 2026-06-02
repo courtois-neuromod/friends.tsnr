@@ -1,0 +1,5 @@
+[submodule "sourcedata/friends.fmriprep"]
+	path = sourcedata/friends.fmriprep
+	url = https://github.com/courtois-neuromod/friends.fmriprep
+	datalad-id = cbfd6482-5670-4f39-ba1b-9623f1f460b8
+	datalad-url = https://github.com/courtois-neuromod/friends.fmriprep
