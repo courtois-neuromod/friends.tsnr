@@ -1,0 +1,1 @@
+da49b311-9034-4875-9ca6-10fdbba4ff5a autoenable=true bucket=cneuromod.friends.tsnr chunk=1GiB datacenter=US encryption=none host=s3.unf-montreal.ca name=unfs3.cneuromod.friends.tsnr port=443 protocol=https requeststyle=path storageclass=STANDARD type=S3 timestamp=1785353007s
